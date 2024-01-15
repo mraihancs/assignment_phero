@@ -1,0 +1,44 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+
+}
+nav li{
+   list-style: none;
+}
+.title{
+    display: flex;
+    align-items: center;
+    
+}
+.logo{
+    padding-right: 10px;
+}
+li a{
+    text-decoration: none;
+}
+
+.navbar ul{
+display: flex;
+}
+.navbar li{
+    padding: 44px;
+}
+span{
+    color: orangered;
+}
+
+.banner{
+height: 500px;
+}
+
+.banner-img{
+  margin-left: 10%;
+  border-radius: 20px;
+}
